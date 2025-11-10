@@ -1,4 +1,4 @@
-/header.png
+![Banner Profile](https://github.com/Orions29/Orions29/blob/main/header.png)
 
 
 # 💫 About Me:
